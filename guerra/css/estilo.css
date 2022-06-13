@@ -1,0 +1,28 @@
+body
+{
+    width: auto;
+    height: auto;
+    background-color: black;
+}
+
+.title2
+{
+    text-align: center;
+    font-family: Verdana, Tahoma, sans-serif;
+    color: burlywood;
+}
+
+
+ol
+{
+    font-weight: bold;
+    font-style: italic;
+}
+
+table
+{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT','Trebuchet MS', sans-serif;
+    font-weight: 600;
+    background-color: brown;
+}
